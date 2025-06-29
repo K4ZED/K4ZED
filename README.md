@@ -1,9 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Kenza Athallah</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Data+Enthusiast+%7C+Tech+Learner+%7C+Educator+at+Heart;Currently+learning+Big+Data+%26+Data+Engineering" alt="Typing SVG" />
-</p>
-
 ---
 
 🎓 **Inquisitive Student** | 💡 Passionate about **Data, Technology, and Education**  

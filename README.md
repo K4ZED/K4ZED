@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Kenza Athallah
 
-<!--
-**K4ZED/K4ZED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student passionate about data, technology, and education  
+💻 Currently learning: Big Data & Data Engineering  
+🌱 I love contributing to open-source and building projects that make impact  
+📫 Reach me at: kenzaathallah.wijaya@gmail.com | [LinkedIn: Kenza Athallah](https://www.linkedin.com/in/kenzaathallah/)
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzaathallah&show_icons=true&theme=tokyonight)
+
+## 📫 Let's Connect!
+
+- LinkedIn: [LinkedIn: Kenza Athallah](https://www.linkedin.com/in/kenzaathallah/)
+- Email: [kenzaathallah.wijaya@gmail.com](mailto:kenzaathallah.wijaya@gmail.com)

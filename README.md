@@ -18,5 +18,5 @@
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [LinkedIn: Kenza Athallah](https://www.linkedin.com/in/kenzaathallah/)
+- LinkedIn: [Kenza Athallah](https://www.linkedin.com/in/kenzaathallah/)
 - Email: [kenzaathallah.wijaya@gmail.com](mailto:kenzaathallah.wijaya@gmail.com)

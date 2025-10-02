@@ -1,57 +1,22 @@
-<h1 align="center">Hi there 👋, I'm Kenza Athallah</h1>
----
+# Kenza Athallah
 
-🎓 **Inquisitive Student** | 💡 Passionate about **Data, Technology, and Education**  
-🌱 Actively learning **Big Data**, **ETL Pipelines**, and **Data Engineering Tools**  
-🚀 Always exploring opportunities to **contribute to open-source** and **build impactful projects**
+Perkenalkan, saya Kenza Athallah, seorang mahasiswa Sains Data di Universitas Sebelas Maret. Saya memiliki ketertarikan yang besar pada bidang data, desain, serta pengembangan web.  
 
-📫 Reach me:  
-[![Email](https://img.shields.io/badge/-kenzaathallah.wijaya@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kenzaathallah.wijaya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Kenza%20Athallah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kenzaathallah/)](https://www.linkedin.com/in/kenzaathallah/)
+Selama menempuh studi, saya berkesempatan untuk magang di Telkom Landmark Surabaya sebagai data analyst. Di sana, saya terlibat dalam pengolahan dan analisis data BTS, serta memastikan kualitas jaringan tetap stabil. Pengalaman tersebut memberi saya pemahaman langsung mengenai penerapan ilmu data di industri.  
 
----
+Selain itu, saya juga mengerjakan proyek-proyek desain secara freelance. Desain bagi saya merupakan medium untuk menyampaikan ide dan cerita dengan cara yang visual. Melalui pengalaman ini, saya terbiasa untuk berpikir kreatif sekaligus detail.  
 
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-000?style=flat&logo=powerbi&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=orange" />
-  <img src="https://img.shields.io/badge/-Google%20Colab-000?style=flat&logo=googlecolab&logoColor=orange" />
-  <img src="https://img.shields.io/badge/-VS%20Code-000?style=flat&logo=visualstudiocode&logoColor=blue" />
-</p>
+Saya pribadi adalah seseorang yang senang mengeksplorasi hal-hal baru. Dari membuat proyek kecil berbasis kode, merancang konsep visual, hingga mengembangkan ide-ide strategis. Bagi saya, belajar dan bereksperimen adalah cara untuk terus berkembang.  
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenzaathallah&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenzaathallah&theme=tokyonight" height="165">
-</p>
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=default)
 
 ---
 
-## 📌 Featured Projects
-
-- 🎯 **IMDb Movie Insights Dashboard** – Built using PostgreSQL + Power BI to analyze movie ratings and trends.
-- 🧹 **Data Cleaning Pipeline** – Automated data cleaning using Python & Pandas from raw TSV to PostgreSQL format.
-- 🛠️ **Event Management Platform** – In development, focusing on volunteer coordination and activity tracking.
-
----
-
-## ✨ Fun Facts
-
-- 📚 I love teaching and aspire to be a **lecturer** someday.
-- 🧩 Always curious about how systems work from backend to frontend.
-- 🎵 I enjoy music and sometimes organize events with indie bands and DJs.
-
----
-
-## 🌐 Let's Connect!
-
-<p align="center">
-  <a href="mailto:kenzaathallah.wijaya@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/kenzaathallah"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/kenzaathallah)  
+- [GitHub](https://github.com/k4zed)  
+- [Instagram](https://www.instagram.com/kazed05_)  

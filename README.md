@@ -11,8 +11,8 @@ Saya pribadi adalah seseorang yang senang mengeksplorasi hal-hal baru. Dari memb
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k4zed&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4zed&layout=compact&theme=default)
 
 ---
 

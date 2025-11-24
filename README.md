@@ -1,6 +1,6 @@
 # Kenza Athallah
 
-Hi
+<img width="1280" height="720" alt="Github Readme" src="https://github.com/user-attachments/assets/73c61eba-cb07-4153-afe2-fcb0642300d4" />
 
 ---
 

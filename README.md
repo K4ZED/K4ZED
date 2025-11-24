@@ -14,3 +14,15 @@
 - [LinkedIn](https://www.linkedin.com/in/kenzaathallah)  
 - [GitHub](https://github.com/k4zed)  
 - [Instagram](https://www.instagram.com/kazed05_)  
+
+---
+
+## 📌 Source / Credits
+
+**Manga:** *Chainsaw Man*  
+**Chapter:** 4  
+**Author:** Tatsuki Fujimoto  
+**Publisher:** Shueisha  
+
+This panel was adapted for meme purposes only.  
+All original art belongs to their respective copyright owners.

@@ -1,6 +1,6 @@
 # Kenza Athallah
 
-<img width="1280" height="720" alt="Github Readme" src="https://github.com/user-attachments/assets/73c61eba-cb07-4153-afe2-fcb0642300d4" />
+<img width="1280" height="720" alt="Github Readme (1)" src="https://github.com/user-attachments/assets/d117207e-92d0-425e-af29-5212fec1970d" />
 
 ---
 
@@ -19,10 +19,10 @@
 
 ## 📌 Source / Credits
 
-**Manga:** *Chainsaw Man*  
-**Chapter:** 4  
-**Author:** Tatsuki Fujimoto  
-**Publisher:** Shueisha  
+**Manga:** *Vinland Saga*  
+**Chapter:** 131  
+**Author:** Makoto Yukimura  
+**Publisher:** Kodansha  
 
 This panel was adapted for meme purposes only.  
 All original art belongs to their respective copyright owners.

@@ -12,10 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=k4zed&theme=tokyonight" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=k4zed&color=blue" alt="Profile Views" />
 </p>
 
